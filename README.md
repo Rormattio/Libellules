@@ -1,2 +1,3 @@
 On va faire un super jeu !
-Et ça va être trop bien!
+Et Ã§a va Ãªtre trop bien!
+Et que Ã§a soit sous Linux ou Windows ou MacOS!
